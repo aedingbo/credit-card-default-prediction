@@ -22,7 +22,7 @@ The project followed a structured machine learning workflow:
 
 ## Results & Conclusion
 
-The final analysis concluded that a simple model—a Random Forest with `n_estimators=1` (effectively a single Decision Tree) and the `'gini'` criterion—yielded the best recall score of **~0.416**. This counter-intuitive result highlights the importance of tuning for a specific metric and shows that more complex models are not always superior. The project also concluded with a reflection on the risk of "overfitting to the test set," demonstrating an understanding of the limitations of hyperparameter tuning.
+The final analysis concluded that a simple model—a Random Forest with `n_estimators=1` (effectively a single Decision Tree) and the `'gini'` criterion, yielded the best recall score of **~0.416**. This counter-intuitive result highlights the importance of tuning for a specific metric and shows that more complex models are not always superior. The project also concluded with a reflection on the risk of "overfitting to the test set," demonstrating an understanding of the limitations of hyperparameter tuning.
 
 ## How to Run
 1.  **Prerequisites:** Python 3.x, preferably via the Anaconda distribution.
