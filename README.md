@@ -22,7 +22,7 @@ Because missed defaults are typically more costly than false alarms, this projec
 
 ---
 
-## Project Workflow (01_workbook.ipynb)
+## Project Workflow
 ### 1) Data Cleaning & EDA
 - Loaded the dataset and checked data quality.
 - Explored distributions and imbalance in the target.
